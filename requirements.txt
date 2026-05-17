@@ -1,0 +1,12 @@
+# CPM pipeline
+numpy
+pandas
+matplotlib
+scipy
+h5py
+tables
+gdown
+
+# AI interpretation
+openai
+python-dotenv

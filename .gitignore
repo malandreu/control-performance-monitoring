@@ -1,0 +1,17 @@
+# API keys — nunca en git
+.env
+
+# Datos descargados — pesados y regenerables
+data_gimscop/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs grandes — las figuras se regeneran ejecutando el notebook
+outputs/figures/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
